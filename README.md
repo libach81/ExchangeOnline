@@ -4,4 +4,5 @@ This repository contains various scripts for managing Exchange Online using Powe
 These are currently:
 
 1. Connect to Exchange Online using powershell 
-2.ConnectCloudUserToLocalExchange.ps1 which can create a remote mailbox object in Active Directory, when an Exchange Online mailbox was created without the hybrid deployment in mind.
+2. ConnectCloudUserToLocalExchange.ps1 which can create a remote mailbox object in Active Directory, when an Exchange Online mailbox was created without the hybrid deployment in mind.
+3. CalendarPermissions.ps1 which can modify permissions on users calendar
