@@ -18,7 +18,7 @@ $exchangeserver = "exchange.domain.local"
 $domaincontroller = "dc.domain.local"
 $samaccountname = "name"
 $targetaddress = "$samaccountname@tenant.mail.onmicrosoft.com"
-$emailaddress = "$samaccountname@brock.dk"
+$emailaddress = "$samaccountname@domain.com"
 
 #fixed variables to change
 $displaytype = "-2147483642"
